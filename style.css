@@ -1,0 +1,23 @@
+#title {
+	text-align: center;
+	margin: 10px;
+}
+#calculator-grid {
+	text-align: center;
+	margin: 20px 30%; 
+	border: 1px solid #000;
+	padding: 10px;
+}
+#calculator-grid button {
+	margin: 20px;
+}
+#result {
+	padding: 5px;
+	text-align: right;
+	color: green;
+	font-weight: bold;
+	font-size: 40px;
+	margin: 20px 60px;
+	border: 1px solid #000;
+	background: lightgrey;
+}
